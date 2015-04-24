@@ -1,17 +1,14 @@
 {
   "name": "uma-introducao-a-git-e-github",
   "version": "1.0.0",
-  "description": "Slides from my talk at FLISOL 2015 aboutthe importance of versioning and sharing code on Github.",
-  "repository": "https://github.com/mabrasil/uma-introducao-a-git-e-github",
+  "description": "Slides from my talk at FLISOL 2015 about the importance of versioning and sharing code on Github.",
+  "repository": "https://github.com/mabrasil/slides-flisol-2015",
   "main": "index.js",
   "scripts": {
     "test": ""
   },
   "keywords": [
     "reveal",
-    "gulp",
-    "stylus",
-    "highlight",
 	"git",
     "github"
   ],
