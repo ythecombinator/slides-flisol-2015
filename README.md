@@ -11,22 +11,22 @@ as a preprocessor.
 
 ## Installing
 
-1. First of all, make sure you have all the dependencies: [NodeJS](http://nodejs.org/) and [GulpJS](http://gulpjs.com/)
+First of all, make sure you have [NodeJS](http://nodejs.org/) and [GulpJS](http://gulpjs.com/)
 
-2. Clone this repository:
+Clone this repository:
 
 ```sh
 $ git clone git://github.com/mabrasil/slides-flisol-2015
 $ cd slides-flisol-2015
 ```
 
-3. Install NodeJS dependencies:
+Install NodeJS dependencies:
 
 ```sh
 $ npm install
 ```
 
-4. Run Tasks and Serve:
+Run Tasks and Serve:
 
 ```sh
 $ gulp
