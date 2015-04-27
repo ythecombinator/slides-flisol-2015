@@ -31,3 +31,7 @@ Run Tasks and Serve:
 ```sh
 $ gulp
 ```
+
+## Thanks
+
+Not made with, but inspired by philosophy behind [this boilerplate](https://github.com/willianjusten/reveal-boilerplate).
