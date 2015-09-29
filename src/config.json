@@ -1,0 +1,25 @@
+{
+  "about": {
+    "title": "Uma Introdução a Git & Github",
+    "description": "Slides from my talk at Festival Latino Americano de Instalação de Software Livre (FLISOL 2015) about the importance of versioning and sharing code on Github.",
+    "author": "@mabrasil_io",
+    "site": {
+        "url": "http://mabrasil.github.io/talks/2015/flisol",
+        "googleAnalytics": "",
+        "cover": "http://mabrasil.github.io/talks/2015/flisol/images/meta/screenshot.png",
+        "favicon": "images/meta/favicon.png"
+    }
+  },
+  "deploy":{
+    "rsync":{
+      "username":"",
+      "hostname": "",
+      "dest": ""
+    },
+    "github":{
+      "remoteUrl": "",
+      "branch": "",
+      "message": "Deployed to Github Pages at [timestamp]"
+    }
+  }
+}

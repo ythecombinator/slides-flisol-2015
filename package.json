@@ -1,29 +1,50 @@
 {
-  "name": "uma-introducao-a-git-e-github",
+  "name": "xzibit",
   "version": "1.0.0",
-  "description": "Slides from my talk at FLISOL 2015 about the importance of versioning and sharing code on Github.",
-  "repository": "https://github.com/mabrasil/slides-flisol-2015",
-  "main": "index.js",
+  "description": "A boilerplate to create presentations using cool technologies.",
+  "main": "gulpfile.js",
   "scripts": {
-    "test": ""
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "del": "^1.2.1",
+    "gulp": "3.9.0",
+    "gulp-concat": "2.6.0",
+    "gulp-data": "^1.2.0",
+    "gulp-jade": "1.1.0",
+    "gulp-plumber": "^1.0.1",
+    "gulp-stylus": "2.0.6",
+    "gulp-uglify": "1.2.0"
+  },
+  "devDependencies": {
+    "browser-sync": "2.8.2",
+    "gulp": "3.9.0",
+    "gulp-concat": "2.6.0",
+    "gulp-gh-pages": "^0.5.2",
+    "gulp-imagemin": "2.3.0",
+    "gulp-jade": "1.1.0",
+    "gulp-plumber": "1.0.1",
+    "gulp-stylus": "2.0.6",
+    "gulp-uglify": "1.2.0",
+    "gulp-util": "^3.0.2",
+    "rsyncwrapper": "^0.4.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mabrasil/xzibit.git"
   },
   "keywords": [
-    "reveal",
-	"git",
-    "github",
-	"flisol"
+    "Boilerplate",
+    "RevealJS",
+    "Slides",
+    "Gulp",
+    "Jade",
+    "Stylus"
   ],
-  "author": "Matheus Albuquerque Brasil",
+  "author": "Matheus Brasil <mabrasil.rocks>",
   "license": "MIT",
-  "devDependencies": {
-    "browser-sync": "^2.4.0",
-    "gulp": "^3.8.11",
-    "gulp-concat": "^2.5.2",
-    "gulp-imagemin": "^2.2.1",
-    "gulp-jade": "^1.0.0",
-    "gulp-plumber": "^1.0.0",
-    "gulp-stylus": "^2.0.1",
-    "gulp-uglify": "^1.1.0",
-    "gulp-util": "^3.0.4"
-  }
+  "bugs": {
+    "url": "https://github.com/mabrasil/xzibit/issues"
+  },
+  "homepage": "https://github.com/mabrasil/xzibit"
 }

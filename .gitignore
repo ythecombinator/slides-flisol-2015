@@ -1,2 +1,7 @@
-node_modules/
-build/
+### Folders ###
+node_modules
+out
+
+### Files ###
+**/npm-debug.log
+**/.DS_Store
